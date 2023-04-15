@@ -5,4 +5,4 @@ This repository contains simple infrastructure as a code to deploy using terrafo
 3. New VPC for our infrastructure
 
 The infrastructure should look like below:
-![Screenshot](infrastructure.png)
+![Screenshot](infrastructure_fin.png)
